@@ -109,4 +109,7 @@ Why did it work? Inside the `#name=` method, we set the value of `@this_dogs_nam
 ## Conclusion
 As we dive deeper into object-oriented Ruby, we'll be using instance variables frequently to pass information around the instance methods of a class. Think of instance variables as the containers for instance-specific information. The ability of instance variables to store information and be accessible within different instance methods is one of the things that makes it possible for us to create similar but unique objects in object-oriented Ruby.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-ruby-instance-variables-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-ruby-instance-variables-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Instance Variables</p>
